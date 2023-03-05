@@ -1,6 +1,8 @@
 I made this project following the SwiftBeta channel video. It is a Pokedex (Video game Pokemon saga creature list) that uses PokeAPI, SwiftUI, URLSession and JSONDecoder.
 Chanel: https://www.youtube.com/@SwiftBeta
 Video: https://youtu.be/A-aGcZ8HYm0
+PokeAPI: https://pokeapi.co/
+
 
 Once the video was finished, I continued (and will continue) to add more things to the App.
 
